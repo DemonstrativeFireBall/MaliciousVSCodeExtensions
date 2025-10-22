@@ -26,4 +26,5 @@ jeronimoekerdt.color-picker-universal
 srcery-colors.srcery-colors
 sissel.shopify-liquid
 TretinV3.forts-api-extention
+git
 cline-ai-main.cline-ai-agent
